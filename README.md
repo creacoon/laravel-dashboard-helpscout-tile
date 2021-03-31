@@ -1,7 +1,7 @@
 # A short description of the tile
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/creacoon/laravel-dashboard-helpscout-tile.svg?style=flat-square)](https://packagist.org/packages/creacoon/laravel-dashboard-helpscout-tile)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/creacoon/laravel-dashboard-helpscout-tile/run-tests?label=tests)](https://github.com/creacoon/laravel-dashboard-helpscout-tile/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/creacoon/laravel-dashboard-helpscout-tile/run-tests?label=tests)](https://github.com/creacoon/laravel-dashboard-helpscout-tile/actions?query=workflow%3Aphp+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/creacoon/laravel-dashboard-helpscout-tile.svg?style=flat-square)](https://packagist.org/packages/creacoon/laravel-dashboard-helpscout-tile)
 
 This tile displays the amount of active tickets, pending tickets and the amount of tickets that have been solved today. 
