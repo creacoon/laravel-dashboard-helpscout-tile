@@ -41,7 +41,6 @@ class FetchDataFromHelpscoutCommand extends Command
             $mailbox = $client->mailboxes()->get($mailboxId)->getName();
 
             $ticketsActiveAlertTransparency = $ticketsActive / config('dashboard.tiles.helpscout.active_tickets_full_alert');
-            $ticketsActiveAlertTransparency = $ticketsActiveAlertTransparency >= 1;
             if ($ticketsActiveAlertTransparency >= 1){
                 $ticketsActiveAlertTransparency = 1;
             }
