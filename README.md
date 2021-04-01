@@ -8,6 +8,16 @@ This tile displays the amount of active tickets, pending tickets and the amount 
 
 This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-dashboard).
 
+## Info
+The background color of the open ticket count becomes brighter red when there are more open tickets.  
+![image (2)](https://user-images.githubusercontent.com/79519456/113258991-f0733d80-92cc-11eb-879e-03545ac3000c.png)
+![image](https://user-images.githubusercontent.com/79519456/113259010-f49f5b00-92cc-11eb-8a85-f34b055a4521.png)
+![image](https://user-images.githubusercontent.com/79519456/113259312-4516b880-92cd-11eb-83bb-3d4c502554b1.png)
+
+
+
+
+
 ## Installation
 
 1. Require the package via composer
