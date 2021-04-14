@@ -22,7 +22,7 @@
             </div>
             @if ($helpscoutData[$mailboxId]["solvedToday"] === 1)
                 <div class="rounded-lg">
-                    <h1 style="font-size: 5rem"> {{ $helpscoutData[$mailboxId]["solvedToday"] }}</h1>
+                    <h1 style="font-size: 3.5rem"> {{ $helpscoutData[$mailboxId]["solvedToday"] }}</h1>
                     <h3>Ticket solved today</h3>
                 </div>
             @else
